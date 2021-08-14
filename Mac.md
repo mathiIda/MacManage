@@ -7,8 +7,6 @@
 - 默认浏览器已经更改为chrome
 - 使用的Shell解释器是zsh，位于/bin/zsh
 
-
-
 ## 2. Todo
 
 - [ ] 安装navicat
@@ -19,14 +17,16 @@
 - [x] 安装on-my-zsh
 - [x] 设置oh-my-zsh主题
 - [x] 安装oh-my-zsh插件（zsh-autosuggestions、zsh-syntax-highlighting）
-- [ ] 安装pdf阅读器
+- [ ] 安装pdf阅读器(预览不太好用)
 - [x] 安装git
-- [ ] git本地配置
+- [x] git本地配置
 - [x] 安装homebrew
-- [ ] 安装maven
+- [x] 安装百度网盘
+- [x] 安装maven
 - [ ] 安装mysql
 - [ ] 安装redis
-- [ ] 外接显示器
-- [ ] 完善chrome的标签
-- [ ] 配置vpn
+- [ ] 安装ssh工具
+- [ ] 安装draw.io
+- [ ] 购买ECS
+- [ ] 购买iCloud
 

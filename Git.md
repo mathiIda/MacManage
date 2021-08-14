@@ -4,7 +4,7 @@
 
 - Git存储位置：/usr/bin/git
 
-## 2.常用命令
+## 2.配置过程
 
 - 查看版本
 
@@ -60,7 +60,17 @@
 - 可以通过ssh clone/push到github了
 - 参考博客：https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
 
-## 3.注意事项
+## 4.常用命令
+
+- 修改已经push的commit
+
+  ```shell
+  git push --force origin main
+  ```
+
+  
+
+## 5.注意事项
 
 - user.name="niuniu",user.email="niumengliang@tp-link.com.cn",则commiter显示为"niuniu"
 - user.name="xxx",user.email="2487000318@qq.com",则不管name为何，commiter都显示为"mathiIda"
