@@ -17,9 +17,9 @@
 
 - Homebrew的安装位置：/opt/homebrew
 
-- 使用Homebrew install的软件的位置：/usr/local/Cellar/
+- 使用Homebrew install的软件的位置：/opt/homebrew/Cellar/
 
-- 通过Homebrew安装的软件会在usr/bin中生成软连接，指向该软件的真实存储位置
+- 通过Homebrew安装的软件会在/opt/homebrew/bin中生成软连接，指向该软件的真实存储位置
 
 ## 2.常用命令
 
@@ -51,6 +51,18 @@
 
   ```shell
   brew -v
+  ```
+
+- 更新软件库
+
+  ```shell
+  brew update
+  ```
+
+- 查看本地过期软件列表
+
+  ```shell
+  brew outdated
   ```
 
 ## 3.知识点

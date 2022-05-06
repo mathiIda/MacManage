@@ -9,25 +9,26 @@
 
 ## 2. Todo
 
-- [x] 安装iterm2（直接下载dmg，移入application中）
+- [x] 安装Iterm2
 - [x] 安装on-my-zsh
-- [x] 设置oh-my-zsh主题
-- [x] 安装oh-my-zsh插件（zsh-autosuggestions、zsh-syntax-highlighting）
-- [x] 安装git
-- [x] git本地配置
-- [x] 安装homebrew
-- [x] 安装百度网盘
-- [x] 安装maven
-- [x] 安装docker（官网下载dmg。位于usr/local/bin，该位置也自动安装了如docker-compose、kubectl等）
+  - [x] 设置oh-my-zsh主题
+  - [x] 安装oh-my-zsh插件
+    - [x] zsh-autosuggestions
+    - [x] zsh-syntax-highlighting
+- [x] 安装Git
+  - [x] Git本地配置
+- [x] 安装Homebrew
+- [x] 安装Maven
+- [x] 安装Docker
 - [x] 安装jdk
-- [ ] jdk环境变量还没配置（不配置好像也不影响什么）
-- [ ] 安装mysql
-- [ ] 安装navicat
-- [ ] 安装redis
-- [ ] 安装ssh工具
-- [ ] 安装draw.io
-- [ ] 安装pdf阅读器
-- [ ] 更换壁纸和屏保
-- [ ] 购买ECS
-- [ ] 购买iCloud
-
+  - [x] 配置jdk环境变量
+- [x] 网页版Draw.io
+- [x] 安装Postman
+- [x] 安装Mysql
+- [x] 安装IINA
+- [x] 安装InfluxDB
+- [x] 安装Prometheus
+- [ ] 安装Mongo
+- [ ] 安装Navicat
+- [ ] 安装Redis
+- [ ] 安装ssh、ftp工具（可以尝试electerm）
