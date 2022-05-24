@@ -20,15 +20,18 @@
 - [x] 安装Homebrew
 - [x] 安装Maven
 - [x] 安装Docker
-- [x] 安装jdk
+- [x] 安装Jdk
   - [x] 配置jdk环境变量
-- [x] 网页版Draw.io
+- [x] 安装Draw.io
 - [x] 安装Postman
 - [x] 安装Mysql
 - [x] 安装IINA
 - [x] 安装InfluxDB
 - [x] 安装Prometheus
-- [ ] 安装Mongo
+- [x] 切换壁纸
+- [ ] 安装MongoDB
 - [ ] 安装Navicat
 - [ ] 安装Redis
-- [ ] 安装ssh、ftp工具（可以尝试electerm）
+- [ ] 安装虚拟机
+- [ ] 安装ssh、ftp工具
+- [ ] 安装Electerm
