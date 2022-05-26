@@ -29,6 +29,9 @@
 - [x] 安装InfluxDB
 - [x] 安装Prometheus
 - [x] 切换壁纸
+- [ ] 安装Kafka
+- [ ] 安装PicGo
+  - [ ] 配置Github图床
 - [ ] 安装MongoDB
 - [ ] 安装Navicat
 - [ ] 安装Redis
